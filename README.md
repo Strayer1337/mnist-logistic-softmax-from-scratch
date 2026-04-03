@@ -98,6 +98,7 @@ mnist-logistic-softmax-from-scratch/
 ├── notebooks/
 │   └── mnist_logistic_softmax.ipynb
 |
+├── data/ (not included)
 ├── requirements.txt
 └── README.md
 ```
