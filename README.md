@@ -19,6 +19,23 @@ This project implements **Logistic Regression** and **Softmax Regression** for i
 
 ---
 
+## Download Dataset
+
+The MNIST dataset can be downloaded from the official source:
+
+- https://github.com/cvdfoundation/mnist
+
+Or directly download:
+
+- Train images: http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz  
+- Train labels: http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz  
+- Test images: http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz  
+- Test labels: http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz  
+
+After downloading, extract and place them into the `data/` folder.
+
+---
+
 ## Implementations
 
 ### 1. Logistic Regression (NumPy)
@@ -82,8 +99,7 @@ mnist-logistic-softmax-from-scratch/
 │   └── mnist_logistic_softmax.ipynb
 |
 ├── requirements.txt
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
