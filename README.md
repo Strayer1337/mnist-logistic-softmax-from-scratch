@@ -117,6 +117,3 @@ mnist-logistic-softmax-from-scratch/
 ## Author
 * Nguyễn Minh Triết
 * 24521853
-
-* Your Name
-* Student ID: Your ID
